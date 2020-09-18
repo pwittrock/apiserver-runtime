@@ -16,6 +16,11 @@ limitations under the License.
 
 // Package builder contains a builder for creating a new Kubernetes apiserver.
 //
+// Experimental
+//
+// Note that this package is experimental and a work in progress.  Do not rely on this project for production
+// without first contacting the maintainers at kubebuilder@googlegroups.com.
+//
 // API Extension Servers
 //
 // API extension servers and apiserver aggregation are techniques for extending the Kubernetes API surface
